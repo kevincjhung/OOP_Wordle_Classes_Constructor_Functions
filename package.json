@@ -1,0 +1,19 @@
+{
+  "name": "wordle_midterm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "class.js",
+  "scripts": {
+    "test": "npx jest",
+    "test_object": "npx jest object.test.js",
+    "test_closure": "npx jest closure.test.js",
+    "test_class": "npx jest class.test.js",
+    "test_class_more": "npx jest class_more.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
